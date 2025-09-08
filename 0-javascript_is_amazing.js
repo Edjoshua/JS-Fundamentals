@@ -1,3 +1,3 @@
-#!/usr/bin/node
-const myVar = "JavaScript is amazing";
-console.log(myVar);
+git add README.md
+git commit -m "Add README.md with project description"
+git push origin main
